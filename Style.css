@@ -1,0 +1,54 @@
+body{
+    background-color: #EFFFFD;
+    text-align: center !important;
+    line-height: 1.5 !important;
+
+}
+
+h3{
+    font-size: 2.5rem !important;
+    padding-bottom: 40px;
+    font-family: 'Anton', sans-serif;
+    font-weight: bolder;
+}
+h4{
+    padding-bottom: 40px;
+}
+p{
+    padding-bottom: 30px;
+    font-family: 'Prompt', sans-serif;
+}
+
+#Title{
+    margin-bottom: 100px;
+}
+.Openning{
+    font-weight: bolder;
+}
+
+.navbar{
+    padding-bottom: 3rem;
+    padding-left: 20px;
+}
+.nav-item{
+    padding: 0 18px;
+}
+.nav-link{
+    font-family: 'Shippori Antique B1', sans-serif;
+}
+
+.navbar-brand{
+    font-family: 'League Gothic', sans-serif;
+    font-size: 2.5rem !important ;
+    font-weight: bolder;
+}
+.title-img{
+    width: 100%;
+    height: 100%;
+    margin-bottom: 50px;
+}
+
+.social{
+    margin: 50px 20px !important;
+
+}
